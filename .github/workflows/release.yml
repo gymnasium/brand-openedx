@@ -2,7 +2,7 @@ name: Release
 on:
   push:
     branches:
-      - master
+      - community-theme
 jobs:
   release:
     name: Release
