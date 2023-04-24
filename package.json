@@ -1,5 +1,5 @@
 {
-  "name": "@edx/brand-openedx",
+  "name": "@abstract-tech/community-theme-brand",
   "version": "1.0.0-semantically-released",
   "description": "The Community Theme branding and SASS theme package containing for Open edX applications. This package is designed to be copied and customized.",
   "repository": {
