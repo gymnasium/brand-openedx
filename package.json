@@ -13,7 +13,6 @@
   },
   "homepage": "https://github.com/Abstract-Tech/community-theme-brand#readme",
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   }
 }
