@@ -875,3 +875,11 @@ $list-group-action-hover-color:     $list-group-action-color !default;
 
 $list-group-action-active-color:    $body-color !default;
 $list-group-action-active-bg:       $gray-200 !default;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+) !default;
