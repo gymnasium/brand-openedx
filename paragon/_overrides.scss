@@ -4,3 +4,52 @@
 ul.list-unstyled > li > a, button.btn-link, span.justify-content-center, a.default-link  {
     color: $primary !important;
 }
+
+a.active, a.btn-link, a.inline-link, p>a[href]:not(.btn), a, button.btn-link, span.align-items-center {
+    color: $primary !important;
+}
+
+div.profile-page-bg-banner {
+    background-color: $primary;
+}
+
+a.dropdown-item:active {
+    color: #fff !important;
+}
+
+button.btn-brand {
+    background-color: $primary;
+    border-color: $primary;
+    color: #fff !important;
+  
+    span {
+      color: #fff !important;
+    }
+  }
+
+button.btn-brand:hover {
+    background-color: #ac6700;
+    border-color: #ac6700;
+    color: #fff !important;
+}
+
+div.text-accent-a {
+    color: #00588D !important;
+}
+  
+.btn-brand:not(:disabled):not(.disabled):active {
+    background-color: #865100 !important;
+    border-color: #865100 !important;
+  }
+
+img.logo {
+    width: 200px;
+}
+
+.wrapper-footer {
+    padding: 25px 40px 30px 40px !important;
+}
+
+div.contact-info p {
+    margin: 0;
+}
