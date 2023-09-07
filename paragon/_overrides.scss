@@ -9,6 +9,10 @@ a.active, a.btn-link, a.inline-link, p>a[href]:not(.btn), a, button.btn-link, sp
     color: $primary !important;
 }
 
+a.btn-primary {
+    color: #fff !important;
+}
+
 div.profile-page-bg-banner {
     background-color: $primary;
 }
@@ -52,16 +56,4 @@ img.logo {
 
 div.contact-info p {
     margin: 0;
-}
-
-button.discovery-submit {
-    border: 2px solid $primary;
-    border-radius: 2px;
-    height: 55px;
-    padding: 0 14px;
-    background: $primary;
-}
-
-button.find-courses button.discovery-submit:hover, button.find-courses button.discovery-submit:focus {
-    background: #31d8b7;
 }
