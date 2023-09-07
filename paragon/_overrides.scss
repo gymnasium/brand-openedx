@@ -53,3 +53,15 @@ img.logo {
 div.contact-info p {
     margin: 0;
 }
+
+button.discovery-submit {
+    border: 2px solid $primary;
+    border-radius: 2px;
+    height: 55px;
+    padding: 0 14px;
+    background: $primary;
+}
+
+button.find-courses button.discovery-submit:hover, button.find-courses button.discovery-submit:focus {
+    background: #31d8b7;
+}
