@@ -57,3 +57,19 @@ img.logo {
 div.contact-info p {
     margin: 0;
 }
+
+a.btn-brand {
+    background-color: $primary;
+    border-color: $primary;
+    color: #fff !important;
+  
+    span {
+      color: #fff !important;
+    }
+  }
+
+a.btn-brand:hover {
+    background-color: #1a7765;
+    border-color: #1a7765;
+    color: #fff !important;
+}
