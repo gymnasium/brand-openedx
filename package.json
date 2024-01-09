@@ -1,10 +1,10 @@
 {
-  "name": "@edx/brand-openedx",
-  "version": "1.0.0-semantically-released",
+  "name": "@openedx/brand-openedx",
+  "version": "1.0.0-gym.palm.4",
   "description": "The default branding and SASS theme package containing for Open edX applications. This package is designed to be copied and customized.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openedx/brand-openedx.git"
+    "url": "git+https://github.com/gymnasium/brand-openedx.git"
   },
   "author": "edX",
   "license": "GPL-3.0-or-later",
